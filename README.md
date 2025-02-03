@@ -1,6 +1,4 @@
-Claro! Aqui está uma versão mais profissional e completa para o seu arquivo `README` no GitHub:
 
-```markdown
 # Oficina Smart Service
 
 **Oficina Smart Service** é uma aplicação web desenvolvida para gerenciamento completo de oficinas mecânicas, focada em serviços de reparação e manutenção de viaturas. O sistema oferece uma interface intuitiva para administradores, técnicos e clientes, facilitando o controle de serviços, registro de viaturas e usuários, gestão de pagamentos e relatórios. 
@@ -39,7 +37,6 @@ Com funcionalidades como o controle de entrada e saída de viaturas, geração d
 ### 10. **Código QR para Viaturas Concluídas**
 - Ao finalizar o serviço de uma viatura, é gerado um código QR que exibe informações sobre a oficina e a data de saída do veículo.
 
----
 
 ## Tecnologias Utilizadas
 
